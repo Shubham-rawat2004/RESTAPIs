@@ -10,6 +10,7 @@ public class RestapIsApplication {
 
         SpringApplication.run(RestapIsApplication.class, args);
         System.out.println("Learning Building Rest APIs");
+        System.out.println("HELLO World");
 	}
 
 }
